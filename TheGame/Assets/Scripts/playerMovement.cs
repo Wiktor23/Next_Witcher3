@@ -6,8 +6,8 @@ using UnityEngine;
 public class playerMovement : MonoBehaviour
 {
     private Rigidbody rb;
-    private float speedx = 10f;
-    private float jump = 3f;
+    //private float speedx = 10f;
+    //private float jump = 3f;
     public Transform orientation;
 
     // Start is called before the first frame update
